@@ -1,4 +1,5 @@
 # Detection-car-exterior-components
+Hello world this project is for a deep learning challenge. I hope you find it helpful <3 <br/>
 This project is an exterior car parts detection
 <br/>
 We have 20 classes <br/>
@@ -24,7 +25,7 @@ We have 20 classes <br/>
     -Wheel			<br/>
 <h2>First step: Data preparation </h2>
  Manual labeling using VoTT <br />
-<h3> INSTALL VOTT </h3>
+<h3> INSTALL VOTT For Ubuntu </h3>
 git clone https://github.com/CatalystCode/VOTT.git <br />
 cd VOTT <br />
 npm install <br />
