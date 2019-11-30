@@ -1,5 +1,5 @@
 # Detection-car-exterior-components
-This project is an exterior car parts detection 
+This project is an exterior car parts detection \\
 
 *we have 20 classes 
     -Front Bumper	
