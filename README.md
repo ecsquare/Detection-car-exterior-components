@@ -2,7 +2,7 @@
 This project is an exterior car parts detection
 
 *we have 20 classes\
-    -Front Bumper \	
+    -Front Bumper
     -Rear Bumper \
     -LT Fender	\
     -RT Fender	\
