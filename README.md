@@ -1,14 +1,14 @@
 # Detection-car-exterior-components
-This project is an exterior car parts detection \
+This project is an exterior car parts detection\
 
-*we have 20 classes \
+*we have 20 classes\
     -Front Bumper \	
-    -Rear Bumper	\
-    -LT Fender		\
-    -RT Fender		\
-    -LT Headlight	\	
-    -RT Headlight	\	
-    -LT Taillight	\
+    -Rear Bumper \
+    -LT Fender	\
+    -RT Fender	\
+    -LT Headlight \	
+    -RT Headlight \	
+    -LT Taillight \
     -RT Taillight	\
     -Hood			\
     -Grill			\
