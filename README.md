@@ -22,8 +22,14 @@ We have 20 classes <br/>
     -RT Quarter Panel <br/>
     -Trunk			<br/>
     -Wheel			<br/>
-First step: Data preparation ----> Manual labeling usin Labelbox <br/>
-https://labelbox.com/ <br/>
+<h2>First step: Data preparation </h2>
+ Manual labeling using VoTT <br />
+<h3> INSTALL VOTT </h3>
+git clone https://github.com/CatalystCode/VOTT.git <br />
+cd VOTT <br />
+npm install <br />
+npm start <br />
+<br/>
 Exemple of labeled images:
 
 ![Screen Shot 2019-11-19 at 15 25 58](https://user-images.githubusercontent.com/35869627/69905123-12df0900-13b0-11ea-810b-6f8b34fbc473.jpg)
