@@ -1,29 +1,29 @@
 # Detection-car-exterior-components
 This project is an exterior car parts detection
-
-*we have 20 classes\
-    -Front Bumper
-    -Rear Bumper \
-    -LT Fender	\
-    -RT Fender	\
-    -LT Headlight \	
-    -RT Headlight \	
-    -LT Taillight \
-    -RT Taillight	\
-    -Hood			\
-    -Grill			\
-    -Windshield		\
-    -Mirror			\
-    -LT Front Door	\	
-    -RT Front Door	\
-    -LT Rear Door	\	
-    -RT Rear Door	\	
-    -LT Quarter Panel \	
-    -RT Quarter Panel \
-    -Trunk			\
-    -Wheel			\
-First step: Data preparation ----> Manual labeling usin Labelbox \
-https://labelbox.com/ \
+<br/>;
+*we have 20 classes <br/>;
+    -Front Bumper <br/>;
+    -Rear Bumper <br/>;
+    -LT Fender	<br/>;
+    -RT Fender	<br/>;
+    -LT Headlight <br/>;
+    -RT Headlight <br/>;
+    -LT Taillight <br/>;
+    -RT Taillight	<br/>;
+    -Hood			<br/>;
+    -Grill			<br/>;
+    -Windshield		<br/>;
+    -Mirror			<br/>;
+    -LT Front Door	<br/>;
+    -RT Front Door	<br/>;
+    -LT Rear Door	<br/>;	
+    -RT Rear Door	<br/>;	
+    -LT Quarter Panel <br/>;	
+    -RT Quarter Panel <br/>;
+    -Trunk			<br/>;
+    -Wheel			<br/>;
+First step: Data preparation ----> Manual labeling usin Labelbox <br/>;
+https://labelbox.com/ <br/>;
 Exemple of labeled images:
 
 ![Screen Shot 2019-11-19 at 15 25 58](https://user-images.githubusercontent.com/35869627/69905123-12df0900-13b0-11ea-810b-6f8b34fbc473.jpg)
