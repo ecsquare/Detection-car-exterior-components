@@ -25,12 +25,8 @@ We have 20 classes <br/>
     -Wheel			<br/>
 <h2>First step: Data preparation </h2>
  Manual labeling using VoTT <br />
-<h3> INSTALL VOTT For Ubuntu </h3>
-git clone https://github.com/CatalystCode/VOTT.git <br />
-cd VOTT <br />
-npm install <br />
-npm start <br />
-<br/>
+<h3> INSTALL labelImg </h3>
+https://github.com/tzutalin/labelImg
 Exemple of labeled images:
 
 ![Screen Shot 2019-11-19 at 15 25 58](https://user-images.githubusercontent.com/35869627/69905123-12df0900-13b0-11ea-810b-6f8b34fbc473.jpg)
