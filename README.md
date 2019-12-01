@@ -24,9 +24,10 @@ We have 20 classes <br/>
     -Trunk			<br/>
     -Wheel			<br/>
 <h2>First step: Data preparation </h2>
- Manual labeling using VoTT <br />
+ Manual labeling using labelImg <br />
 <h3> INSTALL labelImg </h3>
 https://github.com/tzutalin/labelImg
+<br/>
 Exemple of labeled images:
 
 ![Screen Shot 2019-11-19 at 15 25 58](https://user-images.githubusercontent.com/35869627/69905123-12df0900-13b0-11ea-810b-6f8b34fbc473.jpg)
